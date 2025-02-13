@@ -43,4 +43,18 @@ body{
     box-shadow: 0.5rem 1rem 3rem;
 
 
+    
+
+
+}
+
+.btnYes a{
+    text-decoration: none;
+    color:black;
+    background: #fff;
+    padding: 10px 25px;
+    border-radius: 8px;
+    box-shadow: 0.5rem 1rem 3rem;
+
+
 }
